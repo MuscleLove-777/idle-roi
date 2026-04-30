@@ -5,7 +5,7 @@
     <link>https://musclelove-777.github.io/idle-roi/</link>
     <description>「1時間放置で何円相当のジェム/通貨が貯まるか」を独自指標で実測。ROIランキングと周回最適化テンプレで、効率厨向けの定量比較メディア。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 28 Apr 2026 22:32:22 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 19:45:56 +0900</lastBuildDate>
     <atom:link href="https://musclelove-777.github.io/idle-roi//feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>最新版 放置ゲーム 時給ランキング 2026年4月</title>
@@ -13,7 +13,15 @@
       <guid>https://musclelove-777.github.io/idle-roi//articles/idle-game-hourly-ranking-2026-april.html</guid>
       <description></description>
       <category>時給ランキング月次更新</category>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0900</pubDate>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>2026年4月新作放置ゲー 時給効率 初動レビュー</title>
+      <link>https://musclelove-777.github.io/idle-roi//articles/idle-game-april-2026-hourly-rate-review.html</link>
+      <guid>https://musclelove-777.github.io/idle-roi//articles/idle-game-april-2026-hourly-rate-review.html</guid>
+      <description></description>
+      <category>新作放置ゲー初動レビュー</category>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
